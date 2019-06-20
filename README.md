@@ -25,7 +25,7 @@ wget https://raw.githubusercontent.com/chromium/ct-policy/master/mmd_monitor_roo
 
 ### Mozilla NSS
 
-[](https://curl.haxx.se/docs/caextract.html)
+[https://curl.haxx.se/docs/caextract.html](https://curl.haxx.se/docs/caextract.html)
 
 ```
 curl --remote-name --time-cond cacert.pem https://curl.haxx.se/ca/cacert.pem
